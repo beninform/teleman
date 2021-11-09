@@ -1,2 +1,2 @@
-# teleman
+# telemann
 test area for ML
